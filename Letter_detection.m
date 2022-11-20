@@ -10,7 +10,6 @@ for n=1:length(NewTemplates)
 end
 
 ind=find(rec==max(rec));
-% display(ind);
 
 % Alphabets listings.
 if ind==1 || ind==2
